@@ -1,4 +1,4 @@
-## Relief of substrates
+## Computing the relief of substrates
 
 A python script for Rhino used to determine absolute relief of any size area of substrate.
 
